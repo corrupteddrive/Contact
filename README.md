@@ -14,6 +14,7 @@ I also have Discord and Telegram but I only give those to people I know.
   <br>
   
   <img src=assets/qrcode-session.png>
+  
   `055383dcb59a6ca901d354d6e4d1fc0ba865af329c260b379550c77333a16eb746`
 </details>
 
@@ -21,7 +22,7 @@ I also have Discord and Telegram but I only give those to people I know.
   <summary>PGP Key</summary>
   <br>
 
-Do not trust any other keys, whether they be on a keyserver or otherwise. This is my *only* key.
+Do not trust any other keys. This is my *only* key.
 
 [Click here if you want to import using a file instead](https://raw.githubusercontent.com/corrupteddrive/corrupteddrive/main/assets/31C692AFC08AA9170F8EE49668875AC481232F80.asc)
 ~~~~~~~~~~~~~~~~~~~~~
