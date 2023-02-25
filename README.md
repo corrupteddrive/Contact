@@ -24,7 +24,13 @@ I also have Discord and Telegram but I only give those to people I know.
 
 Do not trust any other keys. This is my *only* key.
 
+---
+
+If you want to import my key using something like OpenKeychain or Keyoxide, you can scan the QR code below.
+
 <img src=assets/qrcode-pgp.png>
+
+---
 
 [Click here if you want to import using a file instead](https://raw.githubusercontent.com/corrupteddrive/corrupteddrive/main/assets/31C692AFC08AA9170F8EE49668875AC481232F80.asc)
 ~~~~~~~~~~~~~~~~~~~~~
